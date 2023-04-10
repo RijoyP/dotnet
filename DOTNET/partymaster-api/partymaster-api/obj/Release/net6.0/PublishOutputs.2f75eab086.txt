@@ -1,0 +1,11 @@
+/mnt/e/dotnet/partymaster-api/partymaster-api/bin/Release/net6.0/publish/partymaster-api
+/mnt/e/dotnet/partymaster-api/partymaster-api/bin/Release/net6.0/publish/appsettings.Development.json
+/mnt/e/dotnet/partymaster-api/partymaster-api/bin/Release/net6.0/publish/appsettings.json
+/mnt/e/dotnet/partymaster-api/partymaster-api/bin/Release/net6.0/publish/partymaster-api.dll
+/mnt/e/dotnet/partymaster-api/partymaster-api/bin/Release/net6.0/publish/partymaster-api.deps.json
+/mnt/e/dotnet/partymaster-api/partymaster-api/bin/Release/net6.0/publish/partymaster-api.runtimeconfig.json
+/mnt/e/dotnet/partymaster-api/partymaster-api/bin/Release/net6.0/publish/partymaster-api.pdb
+/mnt/e/dotnet/partymaster-api/partymaster-api/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/mnt/e/dotnet/partymaster-api/partymaster-api/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/e/dotnet/partymaster-api/partymaster-api/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/e/dotnet/partymaster-api/partymaster-api/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

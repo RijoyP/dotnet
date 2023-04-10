@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mdHw3keN3N4osMxLNt9vH7UoXJ9EFnNYH4ZGEVmRPMA=",
+  "Source": "partymaster-api",
+  "BasePath": "_content/partymaster-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

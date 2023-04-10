@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\partymaster-api.props" />
+</Project>
